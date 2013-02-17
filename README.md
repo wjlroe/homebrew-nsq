@@ -9,3 +9,7 @@ Version: 0.2.17
 
 1. `brew tap wjlroe/homebrew-nsq`
 1. `brew install nsq`
+
+## Now what?
+
+Now check the [Getting started](https://github.com/bitly/nsq#getting-started) section of the NSQ README to see how to start playing with it. Head over there for client libs also.
