@@ -3,7 +3,7 @@ homebrew-nsq
 
 [Homebrew](http://mxcl.github.com/homebrew/) formula for [NSQ](https://github.com/bitly/nsq) from [Bitly](https://bitly.com/)
 
-Version: 0.2.19
+Version: 0.2.22
 
 ## How to install NSQ
 
