@@ -1,7 +1,7 @@
 homebrew-nsq
 ============
 
-[Homebrew](http://mxcl.github.io/homebrew/) formula for [NSQ](http://bitly.github.io/nsq/) from [Bitly](https://bitly.com/)
+[Homebrew](http://brew.sh/) formula for [NSQ](http://bitly.github.io/nsq/) from [Bitly](https://bitly.com/)
 
 Version: 0.2.22
 
